@@ -1,0 +1,25 @@
+.vo{
+    font-size: 16px;
+}
+
+
+
+.pai {
+    width: 350px;
+    height: 250px;
+    background: blue;
+    color: #ffffff;
+    font-size: 2em;
+
+}
+
+
+.filho {
+    width: 250px;
+    height: 50%;
+    background: red;
+    color: #ffffff;
+    font-size: 2rem;
+
+
+}

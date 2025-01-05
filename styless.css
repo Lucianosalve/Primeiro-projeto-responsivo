@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+h1{
+     color:red;/* troca a cor do texto  */
+     font-size: 60px;/* troca tamanho do texto  */
+     font-family: "Roboto", serif;
+     font-weight: lighter;/* grossura das letras */
+     font-style: italic;/* letras fica deitada no tessto */
+     text-shadow: 10px 10px 10px #f00;/* deixar sombra nas letras   */
+      
+    
+}
+p{
+    color: blue;/* troca a cor do texto  */
+    font-size: 30px;/* troca o tamanho do texto  */
+    font-weight: 150;/* grossura das letras */
+    font-family: "Roboto", serif;
+    font-style: inherit;/* letras fica deitada no texto */
+    line-height: 50px;/* altura da linha e espaçamento  */
+    letter-spacing: 10px;/* espaçamento entre as letras */
+    word-spacing: 10px;/* espaçamento entre as palavras*/
+    text-align: justify;/* aliamento do  texto */
+    text-transform: capitalize;/* deixar as letras maiúsculo e minusculo e as primeira letras maiuculo*/
+    text-decoration: dotted;/* deixas o texto todo underline e orverline*/
+    
+    
+    
+    
+}
